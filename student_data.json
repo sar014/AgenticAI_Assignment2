@@ -1,0 +1,23 @@
+{
+  "STU-101": {
+    "name": "Aarav Sharma",
+    "programme": "PGDM (Artificial Intelligence & Data Science)",
+    "fee_status": "Registration Fee Paid (INR 2,00,000). 1st Installment of INR 2,00,000 + 50,000 Caution Deposit due by July 15, 2026.",
+    "scholarship_status": "Merit Scholarship Active (20%)",
+    "email": "aarav.sharma@aidtm.edu"
+  },
+  "STU-102": {
+    "name": "Akash Sharma",
+    "programme": "PGDM (Big Data Analytics)",
+    "fee_status": "Pending Registration Fee. Offer letter issued.",
+    "scholarship_status": "None",
+    "email": "akash.sharma@aidtm.edu"
+  },
+  "STU-103": {
+    "name": "Rohan Verma",
+    "programme": "PGDM (Artificial Intelligence & Data Science)",
+    "fee_status": "All Trimester Installments Paid in Full.",
+    "scholarship_status": "Sports Scholarship Active (15%)",
+    "email": "rohan.verma@aidtm.edu"
+  }
+}
