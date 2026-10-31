@@ -13,7 +13,7 @@ load_dotenv()
 # Ensure traces directory exists for logging evaluation data
 os.makedirs("traces", exist_ok=True)
 
-# Initialize Groq Client (Ensure GROQ_API_KEY is set in your environment or .env)
+# Initialize Groq Client
 client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 MODEL_NAME = "openai/gpt-oss-120b"
 
